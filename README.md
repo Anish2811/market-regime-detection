@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Market Regime Detection System
 
 Machine Learning project for detecting stock market regimes:
@@ -19,3 +20,7 @@ Machine Learning project for detecting stock market regimes:
 ```bash
 pip install -r requirements.txt
 python main.py
+=======
+# market-regime-detection
+ML-based stock market regime detection using KMeans + HMM (NSE data)
+>>>>>>> 6a1761b9533fa8534c9c03b41be1d98c733df46e
